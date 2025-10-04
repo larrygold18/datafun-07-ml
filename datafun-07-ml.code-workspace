@@ -1,0 +1,10 @@
+{
+  "folders": [
+    { "path": "C:\\Users\\larry\\Documents\\projects\\datafun-07-ml" },
+    { "path": "C:\\Users\\larry\\Documents\\IntroToPython\\examples\\ch10" },
+    { "path": "C:\\Users\\larry\\Documents\\IntroToPython\\examples\\ch15\\snippets_py" }
+  ],
+  "settings": {
+    "python.defaultInterpreterPath": "C:\\Users\\larry\\Documents\\projects\\datafun-07-ml\\.venv\\Scripts\\python.exe"
+  }
+}
